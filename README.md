@@ -1,2 +1,0 @@
-# abhisri-website
-Website project
